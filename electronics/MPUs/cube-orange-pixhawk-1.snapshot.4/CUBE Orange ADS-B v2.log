@@ -1,0 +1,183 @@
+STEP translation to Solid Edge
+Date: Sunday,December 01,2024 02:32PM
+Source File: C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\CUBE Orange ADS-B v2.step
+Author: Unknown
+Organization: Unknown
+Source System: Autodesk Translation Framework v10.9.0.1377
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+Operating System: Windows 11 Professional Version:24H2 Build:26100 System Type:64-bit
+Installed Memory: 15.83 GB
+
+Software Information
+Parasolid Version: 35.0.149
+PSBodyShop Version: 35.0.82
+Step Adapter Version: 11.0.82
+Solid Edge Version: 223.00.00.101 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\CUBE Orange ADS-B v2.asm
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\CUBE Orange ADS-B v2.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-08 v3.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM08B-GHS-TB.par
+|--+Total Parts: 236
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 236
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-04 v2.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM04B-GHS-TB.par
+|--+Total Parts: 176
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 176
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-06 v2.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM06B-GHS-TB.par
+|--+Total Parts: 208
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 208
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-06 v2 (1).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM06B-GHS-TB.par
+|--+Total Parts: 104
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 104
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-06 v2 (2).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM06B-GHS-TB.par
+|--+Total Parts: 104
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 104
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-06 v2 (3).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM06B-GHS-TB.par
+|--+Total Parts: 104
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 104
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-04 v2 (1).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM04B-GHS-TB.par
+|--+Total Parts: 88
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 88
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-04 v2 (2).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM04B-GHS-TB.par
+|--+Total Parts: 88
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 88
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-GH-03 v3.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\SM03B-GHS-TB.par
+|--+Total Parts: 160
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 160
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\JST-ZH-03 v2.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\B3B-ZR.par
+|--+Total Parts: 88
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 88
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Molex ClikMate 06 v3.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Clik-Mate-6M.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Molex ClikMate 06 v3 (1).asm
+|  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Clik-Mate-6M.par
+|--+Total Parts: 1
+|--+Assemblies: 0
+|--+Solid Bodies: 1
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Pixhawk2 Cube v5.asm
+|  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Component1.par
+|--+Total Parts: 4
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Micro-USB v2.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Assembly-1.asm
+|  |  |--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\ZX62-B-5P.par
+|  |--+Total Parts: 2
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 2
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|--+Total Parts: 1
+|--+Assemblies: 1
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Micro-USB v2 (1).asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\Assembly-1 (1).asm
+|  |  |--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\MPUs\cube-orange-pixhawk-1.snapshot.4\ZX62-B-5P.par
+|  |--+Total Parts: 1
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 1
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|--+Total Parts: 1
+|--+Assemblies: 1
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 119
++Assemblies: 15
++Solid Bodies: 104
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 07

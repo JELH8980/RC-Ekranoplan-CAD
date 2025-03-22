@@ -1,0 +1,50 @@
+STEP translation to Solid Edge
+Date: Sunday,December 01,2024 02:51PM
+Source File: C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\sensors\gps-m8n\GPS_MN8_ASM_STEP.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2020
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+Operating System: Windows 11 Professional Version:24H2 Build:26100 System Type:64-bit
+Installed Memory: 15.83 GB
+
+Software Information
+Parasolid Version: 35.0.149
+PSBodyShop Version: 35.0.82
+Step Adapter Version: 11.0.82
+Solid Edge Version: 223.00.00.101 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\sensors\gps-m8n
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\sensors\gps-m8n\GPS_MN8_ASM_STEP.asm
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\sensors\gps-m8n\GPS MODÜLÜ ÝSKELETÝ.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\Ekranoplan\Manta\Prototype\V2\electronics\sensors\gps-m8n\GPS M8N.par
++Total Parts: 4
++Assemblies: 0
++Solid Bodies: 4
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01
